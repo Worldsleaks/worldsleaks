@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<p align="center"><img src=https://media0.giphy.com/media/DnLr7nYCVRFvO/giphy.gif" /></p>
 <!--
 **Worldsleaks/worldsleaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
