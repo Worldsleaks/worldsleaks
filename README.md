@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Worldsleaks&theme=highcontrast)](https://git.io/streak-stats)
+
 <!--
 **Worldsleaks/worldsleaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
