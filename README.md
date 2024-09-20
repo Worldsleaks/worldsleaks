@@ -1,8 +1,8 @@
 ## Hi there 👋
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBkdjduY3JyeXV5czVka2M2N3Z4a3AzcmRod2tsODVtdnI4enZ5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5zoHyCdbtm8feNkIxJ/giphy.webp)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldsleaks&theme=dark&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Worldsleaks&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldsleaks&theme=dark&show_icons=true) <br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Worldsleaks&theme=dark)](https://git.io/streak-stats) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worldsleaks&size_weight=0.5&count_weight=0.5&theme=dark)
 
 <!--
